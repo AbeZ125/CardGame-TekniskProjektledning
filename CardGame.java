@@ -7,7 +7,8 @@ public class CardGame {
 	static Scanner keyboard = new Scanner(System.in);
 
 	public static void main(String[] args) {
-		System.out.println("välkommen till kortspelet");
+		//YOYOYOYOYOYOYOYYOOY
+		System.out.println("välkommen till kortspelet!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		deck = DeckOfCards.getDeckOfCards();
 		System.out.println();
 		/*
